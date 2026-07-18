@@ -2,7 +2,7 @@
     var jqi18n = {
         projectName: "Ultra light i18n Engine",
         version: "1.2.0",
-        githubUrl: "https://github.com/tu-usuario-o-organizacion/jqi18n",
+        githubUrl: "https://github.com/Javenper/lingua-i18n",
         defaultOptions: {
             // Default locale based on browser language
             locale: navigator.language || navigator.userLanguage,
